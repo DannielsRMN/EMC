@@ -6,3 +6,5 @@
     $fcalculada = $factual+$calc; 
     echo "el usuario ".$nombre." cumplira 100 años el año ".$fcalculada;
 ?>
+
+
