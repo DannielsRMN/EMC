@@ -22,5 +22,7 @@
         public function terminar(){
             $conn = NULL;
         }
+
+        # Está comentando DANNIELS
     }
     ?>
