@@ -7,6 +7,7 @@
         $cliente = $conn->exec($sql);
         if($cliente > 0){
             echo "cliente registrado";
+            
         }
         $conn = $conexion->terminar();
     }catch(PDOException $e){
